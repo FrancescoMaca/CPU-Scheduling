@@ -5,7 +5,7 @@ This application simulates some of the algorithms that the CPU uses to schedlue 
 ## How to use it??
 It's really simple to use this program. I think the UI is pretty intuitive.
 
-<img src="https://github.com/FrancescoMaca/CPU-Scheduling/tree/main/images/ui.png" alt="CPU Scheduling Process Tab">
+<img src="https://raw.githubusercontent.com/FrancescoMaca/CPU-Scheduling/main/images/ui.png" alt="CPU Scheduling Process Tab">
 This is the settings tab, it contains the type of the algorithm you want to test, the time slice (which is only used in the Round Robin scheduling) and the dispatcher options.
 The algorithms you can choose from are: <br /> <br />
 
@@ -38,7 +38,7 @@ From there you can add or remove existing processes and you can also import/expo
 
 ---
 
-<img src="https://github.com/FrancescoMaca/CPU-Scheduling/tree/main/images/ui-context-switch.png" alt="CPU Scheduling Process Tab">
+<img src="https://raw.githubusercontent.com/FrancescoMaca/CPU-Scheduling/main/images/ui-context-switch.png" alt="CPU Scheduling Process Tab">
 
 This is the main part of the program, it shows the scheduled processes to the user and, if the dispatcher options are checked, it also shows the context/mode switches. <br />
 Choosing an algorithm it will show its description below the graph. Some of these descriptions *are taken from the interent*. <br />
